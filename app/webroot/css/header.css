@@ -1,0 +1,276 @@
+
+.header{
+	background-color: black;
+	border: 1px solid #D4D4D4;
+	height: 230px;
+	width: 80%;
+	margin-left:10%;
+	margin-right: 10%; 
+
+}
+
+.title{
+	float:left;
+	height: 150px;
+	width: 102%;
+	margin-bottom: -1%;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+	color:white;
+	text-decoration: none;
+	font-size: 166%;
+
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+}
+#kotaksedang{
+		margin-top: 0.5%;
+	background-color:  white;
+	border: 1px solid #D4D4D4;
+	height: 720px;
+	width: 80%;
+	margin-left:10%;
+	margin-right: 10%; 
+	padding: 1%;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    width: 200px;
+    margin-top: 5px;
+    margin-left: -27px;
+}
+#content #FAQ #FAQTitle{
+}
+#kotakopengambar{
+	height: 30%;
+	width: 70%;
+
+}
+#kotakopenket{
+
+}
+
+#content #contact{
+	margin-left: 20px;
+	text-align: center;
+	padding-bottom: 1px;
+}
+
+#content{
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+#content #FAQ{
+	text-align: justify;
+}
+#content #penting{
+	color: red;
+	text-align: center;
+	background: pink;
+}
+
+#content #penjelasan{
+	text-align: justify;
+}
+.login{
+	float: right;
+	width: 25%;
+	margin-top: 2%;	
+	margin-right: 2%;
+}
+
+div.username{
+	float: right;
+	margin-bottom: 0%;
+	padding-bottom: 0%;
+}
+
+div.pwd{
+	float: right;
+	margin-top: 3%;
+	margin-bottom: 2%;
+	padding-bottom: 0%;
+}
+
+div.forpass{
+	clear: left;
+	float: right;
+	margin-bottom: 1%;
+}
+
+div.forpass a{
+	font-size: 80%;
+	text-decoration: none;
+	margin-right: 5px; 	
+}
+
+div.forpass a:hover{
+	border-bottom: dashed 1px;
+}
+
+
+input#logbutton{
+	color: white;
+	background-color: #333;
+	border: none;
+	height: 25px;
+	width: 80px;
+}
+
+input#logbutton:hover{
+	cursor: pointer;
+	background-color: green;
+}
+
+#navigation{
+	clear: left;
+	float: left;
+	width: 70%;
+	height: auto;
+	margin-top: 2.5%;
+	margin-left: 1%;
+}
+
+#navigation div{
+	float: left;
+	padding: 0.7% 3.25%;
+	margin-right: 0.3%;
+	background: #333;
+}
+
+#navigation div a{
+	color:white;
+	text-decoration: none;
+	font-size: 100%;
+}	
+
+#navigation div:hover{
+	background: #383;
+}
+#kekiri{
+	float: left;
+
+}
+#kekanan{
+
+	float: right;
+
+}
+.kotak{
+	margin-top: 0.5%;
+	background-color:  white;
+	border: 1px solid #D4D4D4;
+	height: 1820px;
+	width: 80%;
+	margin-left:10%;
+	margin-right: 10%; 
+	padding: 1%;
+}
+#kotaksedang{
+		margin-top: 0.5%;
+	background-color:  white;
+	border: 1px solid #D4D4D4;
+	height: 620px;
+	width: 80%;
+	margin-left:10%;
+	margin-right: 10%; 
+	padding: 1%;
+}
+.pagin{
+
+	float : right;
+}
+.kotaksearch{
+		margin-top: 0.5%;
+	background-color: white;
+	border: 1px solid #D4D4D4;
+	height: 40px;
+	width: 80%;
+	margin-left:10%;
+	margin-right: 10%; 
+	padding: 2px;
+
+}
+.kotakkecil{
+	clear: both;
+	margin: 0.5%;
+	
+	height: 250px;
+	width: 100%;
+
+
+}
+.kotakkecilo{
+	clear: both;
+	margin: 0.5%;
+	
+	height: 600px;
+	width: 80%;
+	margin-left:10%;
+	margin-right: 10%; 
+	padding: 1%;
+}
+#gambar{
+	clear: both;
+	float: left;
+	width: 40%;
+	height: 100%;
+}
+#gambaro img{
+	clear: both;
+	width: 100%;
+	height: 35%;
+}
+.title img{
+	width: 98%;
+	height: 100%;
+}
+#ket{
+ 
+	text-align: center;
+	clear: right;
+	float: right;
+	width: 60%; 
+	border: 1px solid #D4D4D4;
+	padding: 0.5%;
+	height: 100%;
+}
+.judul{
+	font-size: 30px;
+
+}
+#gambar img{
+		width: 98%;
+	height: 100%;
+}
+.cast{
+font-size: 20px;
+}
+.deskripsi{
+font-size: 20px;
+}
+.tanggal{
+	font-size: 20px;
+	color: lightblue;
+}
+.footer{
+	margin-top: 0.5%;
+	background-color:  #939499;
+	border: 1px solid #D4D4D4;
+	height: 90px;
+	width: 80%;
+	margin-left:10%;
+	margin-right: 10%; 
+
+}
+.logo{
+	margin-left: 4%;
+}
